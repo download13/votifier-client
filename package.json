@@ -1,0 +1,11 @@
+{
+  "name": "votifier-client",
+  "version": "0.1.0",
+  "description": "Server list module for sending votes to Votifier-enabled servers",
+  "main": "votifier-client.js",
+  "dependencies": {
+    "ursa": "~0.8.0"
+  },
+  "keywords": ["minecraft", "bukkit", "votifier"],
+  "author": "Erin Dachtler <download333@gmail.com>"
+}
